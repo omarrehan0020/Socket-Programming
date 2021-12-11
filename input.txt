@@ -1,0 +1,3 @@
+get /omar.jpg 127.0.0.1 8080
+get /client.txt 127.0.0.1 8080
+get /client.html 127.0.0.1 8080
