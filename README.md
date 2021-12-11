@@ -4,12 +4,16 @@
 How to Run server ?
 
 Cd server directory 
+
 gcc server.c -o server -lpthread
+
 ./server port_number
 
 
 How to run client ?
 
 Cd client directory
+
 gcc client.c -o client
+
 ./client input.txt
